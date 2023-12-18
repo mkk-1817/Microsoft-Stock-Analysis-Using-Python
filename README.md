@@ -32,4 +32,3 @@ Understanding the historical performance of a company's stock is crucial for inv
 
 5. **User Interaction: Prediction Input:**
    - Allow users to input data for predicting the cluster using the trained K-Means model.
-
